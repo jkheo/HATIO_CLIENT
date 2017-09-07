@@ -9,3 +9,7 @@ https://winscp.net/eng/docs/executables
 WinSCP homepage is https://winscp.net/
 
 See the file 'license.txt' for the license conditions.
+
+test all
+
+
